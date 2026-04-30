@@ -24,11 +24,11 @@ Olá! 👋 Me chamo **Wellington Oliveira e Souza**, tenho 19 anos e sou natural
 
 ### 😛 Línguas
 
-** Portugues**
-** Inglês**
-** HTML/CSS**
-** SQL**
-** JavaScript**
+- Português
+- Inglês
+- HTML/CSS
+- SQL
+- JavaScript
 
 
 <br/>
