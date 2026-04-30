@@ -7,10 +7,10 @@ Olá! 👋 Me chamo **Wellington Oliveira e Souza**, tenho 19 anos e sou natural
 
 <div align="left">
   <a href="https://github.com/wellnachapa?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/henriquercz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
+    <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/wellnachapa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
   </a>
   <a href="https://github.com/wellnachapa?tab=followers">
-    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/henriquercz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/wellnachapa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/wellington-o-a5611b27b" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
