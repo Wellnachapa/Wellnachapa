@@ -1,7 +1,7 @@
 ---
 
 # ⚙ Wellington Oliveira e Souza
-## **Técnico em Desenvolvimento de Sistemas**
+## Técnico em Desenvolvimento de Sistemas
 
 Olá! 👋 Me chamo **Wellington Oliveira e Souza**, tenho 19 anos e sou natural de São Paulo. Atualmente estou cursando Inteligência Artificial em Sistemas da Informação na **São Paulo Tech School - SPTech**, no primeiro semestre. Também fiz **Microlins - Unidade Osasco**. Sou estudante em tecnologias e inteligência artificial e busco desenvolver projetos e soluções para problemas através delas.
 
@@ -22,7 +22,7 @@ Olá! 👋 Me chamo **Wellington Oliveira e Souza**, tenho 19 anos e sou natural
 
 <br/>
 
-### Línguas
+### 😛 Línguas
 
 ** Portugues**
 ** Inglês**
