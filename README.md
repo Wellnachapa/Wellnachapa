@@ -22,7 +22,7 @@ Olá! 👋 Me chamo **Wellington Oliveira e Souza**, tenho 19 anos e sou natural
 
 <br/>
 
-### 😛 Línguas
+### 😋 Línguas
 
 ** Portugues**
 ** Inglês**
